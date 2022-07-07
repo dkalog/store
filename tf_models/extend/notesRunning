@@ -1,0 +1,5 @@
+step: 69900 total_loss: 1.2834661 obj_cls: 0.0110230381 frag_cls: 0.603910387 frag_loc: 0.418369412
+step: 100 total_loss: 1.2813406 obj_cls: 0.0123081617 frag_cls: 0.40149495 frag_loc: 0.617374897
+
+running: lr=0.00003 kai initialize_last_layer: true
+if not good run lr=0.0000005 initialize_last_layer: true

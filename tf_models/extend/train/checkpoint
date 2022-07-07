@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/lele/Codes/epos/store/tf_models/extend/train/model.ckpt-20000"
+all_model_checkpoint_paths: "/home/lele/Codes/epos/store/tf_models/extend/train/model.ckpt-0"
+all_model_checkpoint_paths: "/home/lele/Codes/epos/store/tf_models/extend/train/model.ckpt-20000"
